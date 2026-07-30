@@ -39,3 +39,6 @@ print("Q-08")
 a= int(input("Write value of a : "))
 print("Square of a : ", a**2)
 print("Square of a : ", a**3)
+
+#Question-09
+print("Q-09")
