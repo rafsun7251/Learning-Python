@@ -6,7 +6,7 @@ study = "AIUB"
 
 print(f"Hello my name is {name}. I live in {live_in}. For contact me please mail me. My mail is {mail}. Currently, I study at {study}. ")
 #another formula 
-print("Hello, mu name is {}. I live in {}. For contact me please mail me. My mail is {}. Currently, I study at {}.".format(name, live_in,mail,study))
+print("Hello, my name is {}. I live in {}. For contact me please mail me. My mail is {}. Currently, I study at {}.".format(name, live_in,mail,study))
 
 #ord()/ char()
 # It based on ASCII code
