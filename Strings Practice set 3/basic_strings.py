@@ -10,3 +10,8 @@ str2 = "World"
 
 print(str1 + " " + str2)
 print(str1,str2)
+
+name= "AIUB Kuril"
+print(name[4:8])
+print(name[5:])
+print(name)
